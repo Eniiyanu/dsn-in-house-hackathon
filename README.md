@@ -126,4 +126,4 @@ By combining distilled multilingual models, LoRA, and robust data augmentation, 
 
 ## Author
 
-**Oluwaferanmi Oladepo [github.com/Eniiyanu]**
+**Oluwaferanmi Oladepo [github.com/Eniiyanu](github.com/Eniiyanu)**
